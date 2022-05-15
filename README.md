@@ -1,4 +1,4 @@
-# v2ray-heroku
+# 12345
 
 > ~~貌似新建的app有些需要科学访问~~，如果需要，请使用cloudflare worker CDN 或者 cloudflare tunnel 套一层。
 
